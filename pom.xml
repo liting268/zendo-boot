@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>zendo-boot</name>
-	<description>禅宗</description>
+	<description>禅宗2</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
