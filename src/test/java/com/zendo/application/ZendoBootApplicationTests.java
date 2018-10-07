@@ -11,7 +11,7 @@ public class ZendoBootApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.printf("789");
+		System.out.printf("qwer");
 	}
 
 }
